@@ -1,5 +1,5 @@
-Fantasy Football Team Predictions
-Introduction
+***Fantasy Football Team Predictions***
+**Introduction**
 This project aims to forecast successful fantasy football teams using regression with regularization. The predictive models are based on player statistics and leverage both linear and Lasso regression techniques. The goal is to optimize player selection and enhance performance prediction in Fantasy Premier League (FPL).
 
 Project Structure
